@@ -1,0 +1,1 @@
+# gerador_de_comentario_jira
