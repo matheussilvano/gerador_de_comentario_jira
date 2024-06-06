@@ -1,7 +1,7 @@
 # Gerador de comentário JIRA
 
 ### Criar ambiente virtual:
-python -m venv venv
+python -m venv venv <br>
 venv\Scripts\activate
 
 ### Instalar dependências:
